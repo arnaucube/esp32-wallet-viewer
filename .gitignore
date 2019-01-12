@@ -1,0 +1,6 @@
+Kconfig.projbuild
+build
+sdkconfig
+sdkconfig.old
+wifi_cfg.h
+config.h
